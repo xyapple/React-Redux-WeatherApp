@@ -1,8 +1,11 @@
-React-Redux-WeatherApp
+# React-Redux-WeatherApp
 
-ReduxSimpleStarter
+### ReduxSimpleStarter
 
 ```
 > npm install
 > npm start
 ```
+### Steps:
+1) Create SearchBar component
+2) 
