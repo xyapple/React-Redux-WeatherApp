@@ -14,3 +14,7 @@
 npm install --save redux-promise
 ```
 4) Hook the ReduxPromise middleware into the src/index.js
+5) Install axios to act like Jquery to make Ajax call
+```
+npm install --save axios
+```
