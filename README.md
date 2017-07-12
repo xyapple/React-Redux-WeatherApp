@@ -25,3 +25,7 @@ component VS container
 
 7) Build a chart by react-sparklines
 http://borisyankov.github.io/react-sparklines/
+
+```
+npm install react-sparklines --save
+```
