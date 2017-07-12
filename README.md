@@ -29,3 +29,5 @@ http://borisyankov.github.io/react-sparklines/
 ```
 npm install react-sparklines --save
 ```
+8) if wants Add google map component
+https://github.com/tomchentw/react-google-maps
