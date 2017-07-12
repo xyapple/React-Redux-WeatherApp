@@ -15,6 +15,7 @@ export function fetchWeather(city){
     console.log('request: ', request);
     return {
         type: FETCH_WEATHER,
+        //if the payload is a promise, react will stop the action, dispactch a new action
         payload: request
     };
 }
